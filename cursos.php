@@ -57,7 +57,7 @@
 	<section class="playlist-section spad">
 		<div class="container-fluid">
 					<div class="alert alert-warning alert-dismissible fade show" role="alert">
-						<strong>Oloco, meu!</strong> Olha esse alerta animado, como é chique!
+						<strong>Atenção!</strong> Todos os cursos aqui presentes são de terceiros, apenas divulgamos os cursos para você ;)
 						<button type="button" class="close" data-dismiss="alert" aria-label="Close">
 							<span aria-hidden="true">&times;</span>
 						</button>
