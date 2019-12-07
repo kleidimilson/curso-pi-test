@@ -67,18 +67,18 @@
 						</div>
 						
 						
-						<form class="contact-from">
+						<form  action="email.php" method="POST" class="contact-from">
 							<div class="row">
 								<div class="col-md-6">
-									<input type="text" placeholder="Seu nome">
+									<input name="nome" type="text" placeholder="Seu nome">
 								</div>
 								<div class="col-md-6">
-									<input type="text" placeholder="Seu e-mail">
+									<input name="email" type="text" placeholder="Seu e-mail">
 								</div>
 								<div class="col-md-12">
-									<input type="text" placeholder="Assunto">
-									<textarea placeholder="Mensagem"></textarea>
-									<button class="site-btn">Enviar</button>
+									<input name="assunto" type="text" placeholder="Assunto">
+									<textarea  name="mensagem" placeholder="Mensagem"></textarea>
+									<button type="submit" class="site-btn">Enviar</button>
 								</div>
 							</div>
 						</form>
