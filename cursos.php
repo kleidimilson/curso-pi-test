@@ -99,6 +99,13 @@
 						<a class="btn-comprar" href="https://go.hotmart.com/D14900772Y">COMPRAR</a>
 					</div>
 				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
+					<div class="playlist-item">
+						<img src="img/curso-manicure-faby-cardoso.png" height="180" alt="">
+						<h5>Curso de Manicure e Pedicure Faby Cardoso</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/M11495110N">COMPRAR</a>
+					</div>
+				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 movies">
 					<div class="playlist-item">
 						<img src="img/guitarra intensiva.png" alt="">
