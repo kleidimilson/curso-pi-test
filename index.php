@@ -43,10 +43,10 @@
 		</a>
 		
 		<ul class="main-menu">
-			<li><a href="index.html">Home</a></li>
-			<li><a href="cursos.html">Cursos</a></li>
-			<li><a href="quem-somos.html">Quem somos</a></li>
-			<li><a href="contato.html">Contato</a></li>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="cursos.php">Cursos</a></li>
+			<li><a href="quem-somos.php">Quem somos</a></li>
+			<li><a href="contato.php">Contato</a></li>
 		</ul>
 	</header>
 	<!-- Header section end -->
@@ -61,7 +61,7 @@
 							<div class="hs-text">
 								<h2><span>Cursos PI</span><br>Plataforma</h2>
 								<p>Bem vindo a Cursos PI sua plataforma de cursos online, dezenas de cursos na palma da sua mão, busque o conhecimento.</p>
-								<a href="cursos.html" class="site-btn">Ver cursos disponíveis </a>
+								<a href="cursos.php" class="site-btn">Ver cursos disponíveis </a>
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -89,7 +89,7 @@
 				<div class="col-lg-6 qualidade">
 					<h2><span id="span-quemSomos">Cursos</span> de qualidade</h2>
 					<p>Fazemos uma seleção de cursos para você, todos os cursos são de extrema qualidade com excelentes professores preocupados em te passar os melhores conteúdos.  </p>
-					<a href="cursos.html" class="site-btn">Ver cursos</a>
+					<a href="cursos.php" class="site-btn">Ver cursos</a>
 				</div>
 			</div>
 		</div>

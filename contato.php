@@ -43,10 +43,10 @@
 			</a>
 			
 			<ul class="main-menu">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="cursos.html">Cursos</a></li>
-				<li><a href="quem-somos.html">Quem somos</a></li>
-				<li><a href="contato.html">Contato</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="cursos.php">Cursos</a></li>
+				<li><a href="quem-somos.php">Quem somos</a></li>
+				<li><a href="contato.php">Contato</a></li>
 			</ul>
 		</header>
 	<!-- Header section end -->
@@ -99,9 +99,9 @@
 								<div class="footer-widget">
 									<h2>Menu</h2>
 									<ul>
-										<li><a href="">Home</a></li>
-										<li><a href="">Quem somos</a></li>
-										<li><a href="">Contato</a></li>
+										<li><a href="index.php">Home</a></li>
+										<li><a href="quem-somos.php">Quem somos</a></li>
+										<li><a href="contato.php">Contato</a></li>
 									</ul>
 								</div>
 							</div>
