@@ -37,7 +37,7 @@
 
 	<!-- Header section -->
 	<header class="header-section clearfix">
-		<a href="index.html" class="site-logo">
+		<a href="index.php" class="site-logo">
 			<h4 id="logo">Cursos	<span id="logo-pi">PI</span></h4>
 		</a>
 		<div class="header-right">
