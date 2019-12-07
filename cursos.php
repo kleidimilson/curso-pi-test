@@ -98,6 +98,11 @@
 						<h5>Curso Maquiagem na Web</h5>
 						<a class="btn-comprar" href="https://go.hotmart.com/D14900772Y">COMPRAR</a>
 					</div>
+					<div class="playlist-item">
+						<img src="img/curso-design-sobrancelha.jpg" height="180" alt="">
+						<h5>Curso de Designer de Sobrancelhas Profissional</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/G14732292J">COMPRAR</a>
+					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
 					<div class="playlist-item">
