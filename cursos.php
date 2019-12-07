@@ -85,6 +85,13 @@
 						<a class="btn-comprar" href="https://go.hotmart.com/U8582399L?ap=f421">COMPRAR</a>
 					</div>
 				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
+					<div class="playlist-item">
+						<img src="img/bolos-em-chantininho-la-dinda.jpg" alt="">
+						<h5>Curso de bolos em chantininho 2.0</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/Q18876051B">COMPRAR</a>
+					</div>
+				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres  ">
 						<div class="playlist-item">
 							<img src="img/excel.jpg" alt="">
