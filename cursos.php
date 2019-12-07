@@ -99,7 +99,7 @@
 						<a class="btn-comprar" href="https://go.hotmart.com/D14900772Y">COMPRAR</a>
 					</div>
 					<div class="playlist-item">
-						<img src="img/curso-design-sobrancelha.jpg" height="180" alt="">
+						<img src="img/curso-design-sobrancelhas.jpg" height="180" alt="">
 						<h5>Curso de Designer de Sobrancelhas Profissional</h5>
 						<a class="btn-comprar" href="https://go.hotmart.com/G14732292J">COMPRAR</a>
 					</div>
