@@ -14,6 +14,10 @@ if(isset($_POST['email']) && !empty($_POST['email'])){
     $header = "From:missopaypal@gmail.com"."\n"
                 "Reply-To:".$email."\n"
                 ."X-Mailer:PHP/".phpversion();
-}
-
+    if(mail($to,$subject,$body,$header)){
+        echo("Email enviado!");
+    }else{
+        echo("ERRO");
+    };
+};
 ?>    
