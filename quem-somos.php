@@ -59,7 +59,7 @@
 			<div class="row">
 					<div class="col-lg-6">
 							<h1><span id="span-quemSomos">Quem</span> somos</h1>
-							<p>Fazemos uma seleção de cursos para você, todos os cursos são de extrema qualidade com excelentes professores preocupados em te passar os melhores conteúdos.  </p>
+							<p>Somos um site de divulgação de cursos online, que tem como objetivo facilitar o consumo de cursos no Piauí. Nosso cursos são escolhidos a dedo para que você tenha uma excelente experiência</p>
 							<a href="contato.html" class="site-btn">Contato</a>
 					</div>
 				<div class="col-lg-6">
