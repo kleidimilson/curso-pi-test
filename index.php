@@ -48,6 +48,7 @@
 			<li><a href="quem-somos.php">Quem somos</a></li>
 			<li><a href="contato.php">Contato</a></li>
 		</ul>
+
 	</header>
 	<!-- Header section end -->
 

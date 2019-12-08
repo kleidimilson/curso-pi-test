@@ -92,6 +92,13 @@
 						<a class="btn-comprar" href="https://go.hotmart.com/Q18876051B">COMPRAR</a>
 					</div>
 				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
+					<div class="playlist-item">
+						<img src="img/curso-geladinho.jpg" height="180" alt="">
+						<h5>Curso Geladinho Gourmet com Marrara Bortoloti</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/T18894307J">COMPRAR</a>
+					</div>
+				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres  ">
 						<div class="playlist-item">
 							<img src="img/excel.jpg" alt="">
