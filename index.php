@@ -65,7 +65,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="hs-text">
-								<h1><span>Cursos PI</span><br>Plataforma</h1>
+								<h2><span>Cursos PI</span><br>Plataforma</h2>
 								<p>Bem vindo a Cursos PI sua plataforma de cursos online, dezenas de cursos na palma da sua mão, busque o conhecimento.</p>
 								<a href="cursos.php" class="site-btn">Ver cursos disponíveis </a>
 							</div>
