@@ -28,5 +28,5 @@ $mail->AddAddress($meuemail);
 
 $mail->Send();
 
-
+header('Location: contato.php');
 ?>
