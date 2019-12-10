@@ -118,7 +118,7 @@
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres  ">
 						<div class="playlist-item">
-							<img src="img/curso de ingles.jpg" alt="">
+							<img src="img/curso de ingles.jpg" height="180" alt="">
 							<h5>Curso A Jornada do Autodidata em Inglês</h5>
 							<a class="btn-comprar" href="https://go.hotmart.com/A18948949I">COMPRAR</a>
 						</div>
