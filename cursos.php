@@ -115,7 +115,14 @@
 							<h5>Curso Expert em Fórmulas do Excel</h5>
 							<a class="btn-comprar" href="https://go.hotmart.com/V11967246F">COMPRAR</a>
 						</div>
-					</div>
+				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 genres  ">
+						<div class="playlist-item">
+							<img src="img/curso de ingles.jpg" alt="">
+							<h5>Curso A Jornada do Autodidata em Inglês</h5>
+							<a class="btn-comprar" href="https://go.hotmart.com/A18948949I">COMPRAR</a>
+						</div>
+				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
 					<div class="playlist-item">
 						<img src="img/curso-maquiagem-web.jpg" height="180" alt="">
