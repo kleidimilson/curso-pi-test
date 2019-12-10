@@ -1,23 +1,32 @@
 <?php
+setlocale( LC_ALL, 'pt_BR', 'pt_BR.iso-8859-1', 'pt_BR.utf-8', 'portuguese' );
+date_default_timezone_set( 'America/Sao_Paulo' );
+require('PHPMailer/class.phpmailer.php');
 
-if(isset($_POST['email']) && !empty($_POST['email'])){
-    $nome = addslashes($_POST['nome']);
-    $email = addslashes($_POST['email']);
-    $assunto = addslashes($_POST['assunto']);
-    $mensagem = addslashes($_POST['mensagem']);
 
-    $to = "missopaypal@gmail.com";
-    $subject = $assunto;
-    $body = "Nome: ".$nome. "\n".
-            "Email: ".$email."\n".
-            "Mensagem: ".$mensagem."\n". 
-    $header = "From:missopaypal@gmail.com"."\n"
-                "Reply-To:".$email."\n"
-                ."X-Mailer:PHP/".phpversion();
-    if(mail($to,$subject,$body,$header)){
-        echo("Email enviado!");
-    }else{
-        echo("ERRO");
-    };
-};
-?>    
+// --------- Variáveis do Formulário ----- //
+$email    = $_POST['email'];
+$nome     = utf8_decode($_POST['nome']);
+$assunto    = $_POST['assunto'];
+$mensagem    = $_POST['mensagem'];
+
+// --------- Variáveis que podem vir de um banco de dados por exemplo ----- //
+
+
+// ******** Agora vai enviar o e-mail pro usuário contendo o anexo
+// ******** e também mostrar na tela para caso o e-mail não chegar
+
+$subject = $assunto;
+$messageBody = $mensagem;
+
+$meuemail = 'kleidimilson3@gmail.com';
+$mail = new PHPMailer();
+$mail->SetFrom($email, "Certificado");
+$mail->Subject  = $subject;
+$mail->MsgHTML(utf8_decode($messageBody));
+$mail->AddAddress($meuemail); 
+
+$mail->Send();
+
+
+?>
