@@ -94,9 +94,15 @@
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
 					<div class="playlist-item">
+<<<<<<< HEAD
 						<img src="img/bolo de pote 1.png" height="180" alt="">
 						<h5>Curso Bolos de Pote Lucrativos</h5>
 						<a class="btn-comprar" href="https://go.hotmart.com/C18948533T">COMPRAR</a>
+=======
+						<img src="img/curso-geladinho.jpg" height="180" alt="">
+						<h5>Curso Geladinho Gourmet com Marrara Bortoloti</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/T18894307J">COMPRAR</a>
+>>>>>>> a5e5c36145be128abd1089693c0eb81e5864011d
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres  ">
