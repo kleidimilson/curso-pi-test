@@ -217,11 +217,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos
 	<script src="js/owl.carousel.min.js"></script>
 	<script src="js/mixitup.min.js"></script>
 	<script src="js/main.js"></script>
-	 <!--JB Tracker--> <script type="text/javascript"> var _paq = _paq || []; (function(){ if(window.apScriptInserted) return; _paq.push(['clientToken', 'P%2bsIjEMd6oQ%3d']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://prod.benchmarkemail.com/tracker.bundle.js'; s.parentNode.insertBefore(g,s); window.apScriptInserted=true;})(); </script> <!--/JB Tracker--> <!-- BEGIN: Benchmark Email Signup Form Code -->
-<script type="text/javascript" id="lbscript1292137" src="https://lb.benchmarkemail.com//br/code/lbformnew.js?mFcQnoBFKMTEQhYVHkb7kbJ25jqXIyRIUH%252Bdr3NZs4Uw5g2Plmj4XMj9ybR%252Bnt%252Fk"></script><noscript>Please enable JavaScript <br /><div align="center" style="padding-top:5px;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;"><a href="//www.benchmarkemail.com/br" target="_new" style="text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;">Serviços de Email Marketing</a> pela Benchmark</div></noscript>
-<!-- END: Benchmark Email Signup Form Code -->
-<!-- END: Benchmark Email Signup Form Code -->
-<!-- END: Benchmark Email Signup Form Code -->
-
-	</body>
+		<!--JB Tracker--> <script type="text/javascript"> var _paq = _paq || []; (function(){ if(window.apScriptInserted) return; _paq.push(['clientToken', 'P%2bsIjEMd6oQ%3d']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://prod.benchmarkemail.com/tracker.bundle.js'; s.parentNode.insertBefore(g,s); window.apScriptInserted=true;})(); </script> <!--/JB Tracker--> <!-- BEGIN: Benchmark Email Signup Form Code -->
+	<script type="text/javascript" id="lbscript1292137" src="https://lb.benchmarkemail.com//br/code/lbformnew.js?mFcQnoBFKMTEQhYVHkb7kbJ25jqXIyRIUH%252Bdr3NZs4Uw5g2Plmj4XMj9ybR%252Bnt%252Fk"></script><noscript>Please enable JavaScript <br /><div align="center" style="padding-top:5px;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;"><a href="//www.benchmarkemail.com/br" target="_new" style="text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;">Serviços de Email Marketing</a> pela Benchmark</div></noscript>
+	<!-- END: Benchmark Email Signup Form Code -->
+</body>
 </html>
