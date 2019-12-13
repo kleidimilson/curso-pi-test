@@ -11,7 +11,7 @@
 	<meta name="language" content="Portuguese">
 	<meta name="generator" content="N/A">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta property="og:image" content="./img/logo-link.png">
+	<meta property="og:image" content="image/png">
 	
 	<!-- Favicon -->
 
