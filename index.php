@@ -205,8 +205,8 @@
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos os direitos Reservados <i class="fa fa-heart-o" aria-hidden="true"></i>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 					<div class="social-links">
-						<a href=""><i class="fa fa-instagram"></i></a>
-						<a href=""><i class="fa fa-facebook"></i></a>
+						<a href="https://www.instagram.com/cursos_pi/"><i class="fa fa-instagram"></i></a>
+						
 					
 					</div>
 				</div>
