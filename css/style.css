@@ -17,11 +17,17 @@ body {
 	height: 100%;
 	font-family: "Montserrat", sans-serif;
 	-webkit-font-smoothing: antialiased;
-	font-smoothing: antialiased;
+	font-synthesis: antialiased;
 }
 #logo{
 	color:#fff;
 
+}
+#anuncio{
+	padding-left: 19%;
+	padding-bottom: 20px;
+
+	
 }
 #logo-pi{
 	color:#fc0254;
@@ -1763,6 +1769,13 @@ Responsive
 	.search-form {
 		margin-top: 40px;
 	}
+	#anuncio{
+		padding-left: 5%;
+		padding-bottom: 20px;
+	
+		
+	}
+	
 }
 
 /* Small Mobile :320px. */
@@ -1840,5 +1853,11 @@ Responsive
 	}
 	.qualidade h2{
 		font-size: 28px;
+	}
+	#anuncio{
+		padding-left: 5%;
+		padding-bottom: 20px;
+	
+		
 	}
 }
