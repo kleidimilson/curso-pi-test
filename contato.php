@@ -73,7 +73,7 @@
 						</div>
 						
 						
-						<form  action="email.php" method="POST" class="contact-from">
+						<form  action="https://formsquash.io/f/O3t5MOKuMI29i4hKPtMj" method="POST" class="contact-from">
 							<div class="row">
 								<div class="col-md-6">
 									<input name="nome" type="text" placeholder="Seu nome">
