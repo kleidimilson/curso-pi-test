@@ -60,6 +60,7 @@
 
 	<!-- Playlist section -->
 	<section class="playlist-section spad">
+	<a href="https://go.hotmart.com/Y19122181D"><img src="https://onebitcode.com/wp-content/uploads/2019/04/banner-BT7-728x90.png" border="0" width="728" height="90" /></a>
 		<div class="container-fluid">
 					<div class="alert alert-warning alert-dismissible fade show" role="alert">
 						<strong>Atenção!</strong> Todos os cursos aqui presentes são de terceiros, apenas divulgamos os cursos para você ;)
@@ -71,7 +72,7 @@
 			<div class="section-title">
 				<h1>Cursos</h1>
 			</div>
-			<a href="https://go.hotmart.com/Y19122181D"><img src="https://onebitcode.com/wp-content/uploads/2019/04/banner-BT7-728x90.png" border="0" width="728" height="90" /></a>
+			
 			<div class="container">
 				<ul class="playlist-filter controls">
 					<li class="control" data-filter=".genres">Profissionalizantes</li>
