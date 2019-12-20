@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Plataforma de cursos online do Piauí, aqui tem cursos de qualidade">
-	<meta name="keywords" content="cursos online, cursos pi, cursos no piaui, piauí cursos, plataforma de cursos no piaui, CURSOSPI, cursos piaui">
+	<meta name="keywords" content="cursos online, cursos pi, cursos no piaui, piauí cursos, plataforma de cursos no piaui, CURSOSPI, cursos piaui, cursos PI, cursos online, cursos com certificado">
 	<meta name="robots" content="">
 	<meta name="revisit-after" content="1 day">
 	<meta name="language" content="Portuguese">
