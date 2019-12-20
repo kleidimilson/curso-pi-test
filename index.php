@@ -3,6 +3,7 @@
 <head>
 	<title>Cursos PI | cursos online </title>
 	<meta charset="UTF-8">
+	<meta name="google-site-verification" content="google-site-verification: google77778c622385853c.html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Plataforma de cursos online do Piauí, aqui tem cursos de qualidade">
 	<meta name="keywords" content="cursos online, cursos pi, cursos no piaui, piauí cursos, plataforma de cursos no piaui, CURSOSPI, cursos piaui, cursos PI, cursos online, cursos com certificado, Pi, PI">
