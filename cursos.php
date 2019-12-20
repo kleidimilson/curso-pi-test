@@ -105,8 +105,13 @@
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
 					<div class="playlist-item">
-
-
+						<img src="img/bolos caseiros.jpg" height="180" alt="">
+						<h5>Apostila Bolos Caseiros da vovó</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/D19234477A">COMPRAR</a>
+					</div>
+				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
+					<div class="playlist-item">
 						<img src="img/curso-geladinho.jpg" height="180" alt="">
 						<h5>Curso Geladinho Gourmet com Marrara Bortoloti</h5>
 						<a class="btn-comprar" href="https://go.hotmart.com/T18894307J">COMPRAR</a>
@@ -139,6 +144,14 @@
 						<img src="img/curso-maquiagem-web.jpg" height="180" alt="">
 						<h5>Curso Maquiagem na Web</h5>
 						<a class="btn-comprar" href="https://go.hotmart.com/D14900772Y">COMPRAR</a>
+					</div>
+					
+				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
+					<div class="playlist-item">
+						<img src="img/curso de maquiagem.jpg" height="180" alt="">
+						<h5>Curso de maquiagem profissional online</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/A19234689W">COMPRAR</a>
 					</div>
 					
 				</div>
