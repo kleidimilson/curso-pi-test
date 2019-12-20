@@ -149,6 +149,14 @@
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
 					<div class="playlist-item">
+						<img src="img/sobrancelha.png" height="180" alt="">
+						<h5>Curso de Designer de Sobrancelhas Profissional</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/G14732292J">COMPRAR</a>
+					</div>
+					
+				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
+					<div class="playlist-item">
 						<img src="img/curso de maquiagem.jpg" height="180" alt="">
 						<h5>Curso de maquiagem profissional online</h5>
 						<a class="btn-comprar" href="https://go.hotmart.com/A19234689W">COMPRAR</a>
