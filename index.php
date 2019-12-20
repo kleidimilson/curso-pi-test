@@ -19,7 +19,7 @@
 	
 	
 	<!-- Favicon -->
-
+	<link rel=”canonical” href=”https://cursospi.herokuapp.com/” />
 	<link href="img/favicon.ico" rel="shortcut icon"/> 
 
 	<!-- Google font -->
