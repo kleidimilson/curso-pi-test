@@ -177,6 +177,13 @@
 						<a class="btn-comprar" href="https://go.hotmart.com/M11495110N">SABER MAIS</a>
 					</div>
 				</div>
+				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
+					<div class="playlist-item">
+						<img src="img/dieta-de-17-dias.jpg" height="180" alt="">
+						<h5> Dieta de 17 Dias Com Grupo Vip 2.0</h5>
+						<a class="btn-comprar" href="https://go.hotmart.com/V11314186Y">SABER MAIS</a>
+					</div>
+				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 movies">
 					<div class="playlist-item">
 						<img src="img/guitarra intensiva.png" alt="">
