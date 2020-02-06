@@ -184,7 +184,7 @@
 						<a class="btn-comprar" href="https://go.hotmart.com/V11314186Y">SABER MAIS</a>
 					</div>
 				</div>
-				<div class="mix col-lg-3 col-md-4 col-sm-6 artists">
+				<div class="mix col-lg-3 col-md-4 col-sm-6 ">
 					<div class="playlist-item">
 						<img src="img/orientador-tcc.jpg" height="180" alt="">
 						<h5> Monografis - Orientador TCC</h5>
