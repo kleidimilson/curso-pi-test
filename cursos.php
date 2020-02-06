@@ -93,28 +93,28 @@
 					<div class="playlist-item">
 						<img src="img/formulanegocioonline-1.png" alt="">
 						<h5>Formula do négocio online</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/U8582399L?ap=f421">COMPRAR</a>
+					<a class="btn-comprar" href="https://go.hotmart.com/U8582399L?ap=f421">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
 					<div class="playlist-item">
 						<img src="img/bolos-em-chantininho.jpeg" height="180" alt="">
 						<h5>Curso de bolos em chantininho 2.0</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/Q18876051B">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/Q18876051B">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
 					<div class="playlist-item">
 						<img src="img/bolos caseiros.jpg" height="180" alt="">
 						<h5>Apostila Bolos Caseiros da vovó</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/D19234477A">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/D19234477A">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres renda ">
 					<div class="playlist-item">
 						<img src="img/curso-geladinho.jpg" height="180" alt="">
 						<h5>Curso Geladinho Gourmet com Marrara Bortoloti</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/T18894307J">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/T18894307J">SABER MAIS</a>
 
 					</div>
 				</div>
@@ -122,28 +122,28 @@
 					<div class="playlist-item">
 						<img src="img/bolo de pote 1.png" height="180" alt="">
 						<h5>Curso Bolos de Pote Lucrativos</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/C18948533T">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/C18948533T">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres  ">
 						<div class="playlist-item">
 							<img src="img/excel.jpg" alt="">
 							<h5>Curso Expert em Fórmulas do Excel</h5>
-							<a class="btn-comprar" href="https://go.hotmart.com/V11967246F">COMPRAR</a>
+							<a class="btn-comprar" href="https://go.hotmart.com/V11967246F">SABER MAIS</a>
 						</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 genres  ">
 						<div class="playlist-item">
 							<img src="img/curso de ingles.jpg" height="180" alt="">
 							<h5>Curso A Jornada do Autodidata em Inglês</h5>
-							<a class="btn-comprar" href="https://go.hotmart.com/A18948949I">COMPRAR</a>
+							<a class="btn-comprar" href="https://go.hotmart.com/A18948949I">SABER MAIS</a>
 						</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
 					<div class="playlist-item">
 						<img src="img/curso-maquiagem-web.jpg" height="180" alt="">
 						<h5>Curso Maquiagem na Web</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/D14900772Y">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/D14900772Y">SABER MAIS</a>
 					</div>
 					
 				</div>
@@ -151,7 +151,7 @@
 					<div class="playlist-item">
 						<img src="img/sobrancelha.PNG" height="180" alt="">
 						<h5>Curso de Designer de Sobrancelhas Profissional</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/G14732292J">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/G14732292J">SABER MAIS</a>
 					</div>
 					
 				</div>
@@ -159,7 +159,7 @@
 					<div class="playlist-item">
 						<img src="img/curso de maquiagem.jpg" height="180" alt="">
 						<h5>Curso de maquiagem profissional online</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/A19234689W">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/A19234689W">SABER MAIS</a>
 					</div>
 					
 				</div>
@@ -167,35 +167,35 @@
 					<div class="playlist-item">
 							<img src="img/curso-design-sobrancelhas.jpg" height="180" alt="">
 							<h5>Curso de Designer de Sobrancelhas Profissional</h5>
-							<a class="btn-comprar" href="https://go.hotmart.com/G14732292J">COMPRAR</a>
+							<a class="btn-comprar" href="https://go.hotmart.com/G14732292J">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 artists genres">
 					<div class="playlist-item">
 						<img src="img/curso-manicure-faby-cardoso.png" height="180" alt="">
 						<h5>Curso de Manicure e Pedicure Faby Cardoso</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/M11495110N">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/M11495110N">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 movies">
 					<div class="playlist-item">
 						<img src="img/guitarra intensiva.png" alt="">
 						<h5>Curso guitarra intensiva</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/X18829937A">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/X18829937A">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 labels">
 					<div class="playlist-item">
 						<img src="img/curso-de-node-js-online.jpg" height="190" alt="">
 						<h5>Curso de node</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/A18831282T">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/A18831282T">SABER MAIS</a>
 					</div>
 				</div>
 				<div class="mix col-lg-3 col-md-4 col-sm-6 labels">
 					<div class="playlist-item">
 						<img src="img/curso-php-developer.jpg" alt="">
 						<h5>Curso de PHP</h5>
-						<a class="btn-comprar" href="https://go.hotmart.com/B8659537E">COMPRAR</a>
+						<a class="btn-comprar" href="https://go.hotmart.com/B8659537E">SABER MAIS</a>
 					</div>
 				</div>
 			</div>
